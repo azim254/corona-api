@@ -1,4 +1,5 @@
 # Corona API 
+[![Gitter](https://badges.gitter.im/opensource-254/community.svg)](https://gitter.im/opensource-254/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 > Covid 19 api for Graphing
 
 ## Build Setup
